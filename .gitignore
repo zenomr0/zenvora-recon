@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Reports
+reports/
+*.json
+*.txt
+
+# Configs / Secrets
+.env
+.zenvora_config.json
+~/.zenvora_config.json
+
+# Linux junk
+.DS_Store
+
+# VSCode
+.vscode/
+
+# SQLite databases
+*.db
+*.sqlite3
