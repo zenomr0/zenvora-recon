@@ -108,19 +108,19 @@ Level 3 — Tor + ProxyChains integration
 
 ## Main Interface
 
-![Main Interface](assets/main-interface.png)
+![Main Interface](assets/help.png)
 
 ---
 
 ## Quick Scan
 
-![Quick Scan](assets/quickscan.png)
+![Quick Scan](assets/scan.png)
 
 ---
 
 ## CVE Detection
 
-![CVE Detection](assets/cve-check.png)
+![CVE Detection](assets/CVE-CHECK.png)
 
 ---
 
